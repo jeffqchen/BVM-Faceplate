@@ -1,9 +1,9 @@
 # Sony BVM D14H5 4:3 DI faceplate
 
 <img src="./Pics/01.jpg" width=600>
-<img src="./Pics/02.jpg" width=300><img src="./Pics/03.jpg" width=300>
-<img src="./Pics/04.jpg" width=300><img src="./Pics/05.jpg" width=300>
-<img src="./Pics/06.jpg" width=300><img src="./Pics/07.jpg" width=300>
+<img src="./Pics/02.jpg" width=300> <img src="./Pics/03.jpg" width=300>
+<img src="./Pics/04.jpg" width=300> <img src="./Pics/05.jpg" width=300>
+<img src="./Pics/06.jpg" width=300> <img src="./Pics/07.jpg" width=300>
 
 I've provided arranged pieces called "AIO" so you can print the same colored pieces in one batch. It is the recommended way to print this project. However, just in case any piece came out imperfect from the batch, you can get the individual STL without the AIO prefix and re-print at ease.
 
