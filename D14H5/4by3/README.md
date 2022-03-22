@@ -167,9 +167,7 @@ Note the name of the pieces in the picture and don't confuse them, as the top an
 
 Don't over-tighten the screws or you'll damage the pieces.
 
-M3 screws & nuts
-
-- https://www.amazon.com/gp/product/B014OO5KQG
+- M3 screws & nuts - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/M2%20M3%20Hex%20Screw%20%26%20Nut/info.md)
 
 <img src="./Pics/asm_04.jpg" width=400>
 
